@@ -2890,6 +2890,15 @@ input:checked + .toggleSwitchSlider:before {
     height: 20px;
 }
 
+.mediaTwitchSVG {
+    fill: #ffffff;
+    height: 12px;
+    transition: 0.25s ease;
+    cursor: pointer;
+    height: 12px;
+    width: 25px;
+}
+
 /* Social media URL shared styles. */
 .mediaURL {
     outline: none;
@@ -2988,6 +2997,15 @@ input:checked + .toggleSwitchSlider:before {
     fill: #7288d9;
 }
 #discordSVG:active {
+    fill: #657ac4;
+}
+
+/* Twitch icon colors. */
+#twitchSVG:hover,
+#twitchURL:focus #twitchSVG {
+    fill: #9147ff;
+}
+#twitchSVG:active {
     fill: #657ac4;
 }
 
