@@ -1581,4 +1581,26 @@
             ]
         }
     ]
-}
+/*
+{
+                "id": "CodeChickenLib:code_chicken:1.7.10",
+                "name": "CodeChickenLib",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 299187,
+                    "MD5": "a9043228d7d6fc52a7cb0d1d20922ce1",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/CodeChickenLib-1.7.10-1.1.1.99-universal.jar"
+                }
+            },
+            {
+                "id": "CodeChickenCore:code_chicken:1.7.10",
+                "name": "CodeChickenCore",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 157678,
+                    "MD5": "23978d3c16f19d0d2808c4b451d78f87",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/CodeChickenCore-1.7.10.jar"
+                }
+            }
+            */
+        }
