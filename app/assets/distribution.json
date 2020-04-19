@@ -457,6 +457,9 @@
                 "id": "MAP:map:1.7.10",
                 "name": "MAP",
                 "type": "ForgeMod",
+                "required": {
+                    "value": false
+                },
                 "artifact": {
                     "size": 164509,
                     "MD5": "391c71835f142e01d95db8846f4c3889",
@@ -482,6 +485,301 @@
                     "size": 467992,
                     "MD5": "abbfcb04acde72648e525377c30d997f",
                     "url": "http://51.255.172.62/mineNorth/launcher/modpack/FlenixCitiesResearch_%5b1.7.10%5d-0.4.jar"
+                }
+            },
+            {
+                "id": "Carpenter:Carpenter_block:1.7.10",
+                "name": "Carpenter",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 1184686,
+                    "MD5": "f0e917209c330e4bfafa5912d31fe409",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/Carpenter's%20Blocks.jar"
+                }
+            },
+            {
+                "id": "CodeChickenLib:code_chicken_lib:1.1.1.99-1.7.10",
+                "name": "CodeChickenLib",
+                "type": "File",
+                "artifact": {
+                    "size": 299187,
+                    "MD5": "a9043228d7d6fc52a7cb0d1d20922ce1",
+                    "path": "mods/CodeChickenLib.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/CodeChickenLib-1.7.10-1.1.1.99-universal.jar"
+                }
+            },
+            {
+                "id": "CodeChickenCore:code_chicken_core:1.7.10",
+                "name": "CodeChickenCore",
+                "type": "File",
+                "artifact": {
+                    "size": 157678,
+                    "MD5": "23978d3c16f19d0d2808c4b451d78f87",
+                    "path": "mods/CodeChickenCore.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/CodeChickenCore-1.7.10.jar"
+                }
+            },
+            {
+                "id": "Flans:flans:4.10.0-1.7.10",
+                "name": "Flans",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 1383671,
+                    "MD5": "ec16b30c743a69e7d470a7f7691f39b8",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/Flans%20Mod-1.7.10-4.10.0.jar"
+                }
+            },
+            {
+                "id": "Alcara_v1:alcara:1.7.10",
+                "name": "Alcara",
+                "type": "File",
+                "artifact": {
+                    "size": 5468509,
+                    "MD5": "abb7ca79320c821c7d27e58b76040669",
+                    "path": "Flan/Alcara_v1.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Alcara_v1.jar"
+                }
+            },
+            {
+                "id": "BlackThorne:black_thorne:1.7.10",
+                "name": "BlackThorne",
+                "type": "File",
+                "artifact": {
+                    "size": 1665777,
+                    "MD5": "788249809cfec0e3ea2d845f5cbc71c0",
+                    "path": "Flan/BlackThorne.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/BlackThorne%20Civilian%20Pack%20BETA%201.8-5.3.1-1.2.0.jar"
+                }
+            },
+            {
+                "id": "Fexs_Vehicle_Pack:fexs _vehicle_pack:1.7.10",
+                "name": "Fex's Vehicle Pack",
+                "type": "File",
+                "artifact": {
+                    "size": 1830944,
+                    "MD5": "b145595514740a52b3db6b3c1b92ca9e",
+                    "path": "Flan/Fex's_Vehicle_Pack.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Fex%60s%20Vehicle%20Pack-1.21-beta.jar"
+                }
+            },
+            {
+                "id": "FiscalParadise_Tenue_CopyRight:fiscal_paradise_tenue_copyRight:1.7.10",
+                "name": "FiscalParadise Tenue CopyRight",
+                "type": "File",
+                "artifact": {
+                    "size": 1256845,
+                    "MD5": "73ec3f9406ca76cb703435210012b961",
+                    "path": "Flan/FiscalParadise_Tenue_CopyRight.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/FiscalParadise%20-%20Tenue%20CopyRight.jar"
+                }
+            },
+            {
+                "id": "FiscalParadise_Tenue_CopyRight2:fiscal_paradise_tenue_copyRight2:1.7.10",
+                "name": "FiscalParadise Tenue CopyRight2",
+                "type": "File",
+                "artifact": {
+                    "size": 3203028,
+                    "MD5": "3ad875fcd4c962d5e8ad2c45bb174365",
+                    "path": "Flan/FiscalParadise Tenue CopyRight2.zip",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/FiscalParadise%20-%20Tenue%20Copyright.zip"
+                }
+            },
+            {
+                "id": "Flans-Simple-Parts-Pack:llans-simple-sarts-sack:1.7.10",
+                "name": "Flans Simple Parts Pack",
+                "type": "File",
+                "artifact": {
+                    "size": 153214,
+                    "MD5": "01b14d870bcff9d915738111c2d2ec54",
+                    "path": "Flan/Flans-Simple-Parts-Pack.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Flans-Simple-Parts-Pack-1.7.10.jar"
+                }
+            },
+            {
+                "id": "Greylight:greylight:1.7.10",
+                "name": "Greylight",
+                "type": "File",
+                "artifact": {
+                    "size": 6731795,
+                    "MD5": "3e6cba545da62da8778c1b44a525c8cb",
+                    "path": "Flan/Greylight.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Greylight%202_1.jar"
+                }
+            },
+            {
+                "id": "MachetemenArmsPack-BrazilianUpdate:machetemen-armspack-brazilian:1.7.10",
+                "name": "MachetemenArmsPack-BrazilianUpdate",
+                "type": "File",
+                "artifact": {
+                    "size": 32375323,
+                    "MD5": "1444b4706a4ec075ef869274471a6892",
+                    "path": "Flan/MachetemenArmsPack-BrazilianUpdate.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Machetemen%20Arms%20Pack%20-%20Brazilian%20Update.jar"
+                }
+            },
+            {
+                "id": "MineNorthRp-titano:MineNorthRp-titano:1.7.10",
+                "name": "MineNorthRp-titano",
+                "type": "File",
+                "artifact": {
+                    "size": 109570386,
+                    "MD5": "d54842bdaa6358be538ce4c8d7fb1bc7",
+                    "path": "Flan/MineNorthRp-titano.zip",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/MineNorthRp-titano.zip"
+                }
+            },
+            {
+                "id": "MineNorthRp:MineNorthRp:1.7.10",
+                "name": "MineNorthRp",
+                "type": "File",
+                "artifact": {
+                    "size": 35125929,
+                    "MD5": "2f3cd9b433d3ef77fd8c711e01986d00",
+                    "path": "flan/MineNorthRp.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/MineNorthRp.jar"
+                }
+            },
+            {
+                "id": "Modern_Armour_Pack:modern_armour_pack:1.7.10",
+                "name": "Modern Armour Pack",
+                "type": "File",
+                "artifact": {
+                    "size": 11606048,
+                    "MD5": "fca75b121028956079898ceb01c0f838",
+                    "path": "Flan/Modern_Armour_Pack.zip",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Modern%20Armour%20Pack%20%5b1.7.10%5d%20v1.0.zip"
+                }
+            },
+            {
+                "id": "Modern_Warfare:modern_warfare:1.7.10",
+                "name": "Modern Warfare",
+                "type": "File",
+                "artifact": {
+                    "size": 3598398,
+                    "MD5": "8583c63f809eacf77219b775a84ff3d4",
+                    "path": "Flan/Modern_Warfare.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Modern%20Warfare.jar"
+                }
+            },
+            {
+                "id": "Pokers_Garage:pokers_garage:1.7.10",
+                "name": "Pokers_Garage",
+                "type": "File",
+                "artifact": {
+                    "size": 5745957,
+                    "MD5": "511164d28bde31301895818f7908c705",
+                    "path": "Flan/Pokers_Garage.zip",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Pokers%20Garage%20V.zip"
+                }
+            },
+            {
+                "id": "TFMW:TFMW:1.7.10",
+                "name": "TFMW",
+                "type": "File",
+                "artifact": {
+                    "size": 6363037,
+                    "MD5": "4e1f1e6b8daf8049fa9b597abed08d09",
+                    "path": "Flan/TFMW.zip",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/TFMW.zip"
+                }
+            },
+            {
+                "id": "TheK1llerOfKnZ_Titano:TheK1llerOfKnZ_Titano:1.7.10",
+                "name": "TheK1llerOfKnZ_Titano",
+                "type": "File",
+                "artifact": {
+                    "size": 36773001,
+                    "MD5": "27fa4b6065b1da57ed74bda9bbb6828a",
+                    "path": "Flan/TheK1llerOfKnZ_Titano.zip",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/TheK1llerOfKnZ%20Titano.zip"
+                }
+            },
+            {
+                "id": "Tigre_Pack:Tigre_Pack:1.7.10",
+                "name": "Tigre_Pack",
+                "type": "File",
+                "artifact": {
+                    "size": 14091682,
+                    "MD5": "8d6c8a8a997e2221f1abc1a9d320ce8a",
+                    "path": "Flan/Tigre_Pack.zip",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Tigre%20Pack.zip"
+                }
+            },
+            {
+                "id": "Tigre_Pack_Police:Tigre_Pack_Police:1.7.10",
+                "name": "Tigre Pack Police",
+                "type": "File",
+                "artifact": {
+                    "size": 8262342,
+                    "MD5": "8e2704c47173384d08dc3c37979b158f",
+                    "path": "Flan/Tigre_Pack_Police.zip",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Tigre%20Pack%20Police.zip"
+                }
+            },
+            {
+                "id": "Tigre_Pack_TheK1llerOfKnZ:Tigre_Pack_TheK1llerOfKnZ:1.7.10",
+                "name": "Tigre Pack TheK1llerOfKnZ",
+                "type": "File",
+                "artifact": {
+                    "size": 36773001,
+                    "MD5": "f0ca4fda55235402add8fdb9cf3d1367",
+                    "path": "Flan/Tigre_Pack_TheK1llerOfKnZ.zip",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Tigre_Pack_TheK1llerOfKnZ.zip"
+                }
+            },
+            {
+                "id": "Vehicule_FiscalParadise:Vehicule_FiscalParadise:1.7.10",
+                "name": "Vehicule_FiscalParadise",
+                "type": "File",
+                "artifact": {
+                    "size": 1290045,
+                    "MD5": "434dd4b609ccb7b27c21e0e1bf08d394",
+                    "path": "Flan/Vehicule_FiscalParadise.zip",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/Vehicule_FiscalParadise.zip"
+                }
+            },
+            {
+                "id": "astonmartin:astonmartin:1.7.10",
+                "name": "astonmartin",
+                "type": "File",
+                "artifact": {
+                    "size": 1645791,
+                    "MD5": "b18e7508a8ea1442202cbcec1e8d7326",
+                    "path": "Flan/astonmartin.zip",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/astonmartin.zip"
+                }
+            },
+            {
+                "id": "ctm_pack:ctm_pack:1.7.10",
+                "name": "ctm_pack",
+                "type": "File",
+                "artifact": {
+                    "size": 3170733,
+                    "MD5": "5957159b441ca629bfb26ebcad14c4fc",
+                    "path": "Flan/ctm_pack_3.1-Content.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/ctm%20pack%203.1-Content%20Pack-1.7.10-4.9.0.jar"
+                }
+            },
+            {
+                "id": "paradisfiscale:paradisfiscale:1.7.10",
+                "name": "paradisfiscale",
+                "type": "File",
+                "artifact": {
+                    "size": 2693613,
+                    "MD5": "6563647725e304d1ff3582a639c32ca9",
+                    "path": "Flan/paradisfiscale.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/paradisfiscale.jar"
+                }
+            },
+            {
+                "id": "paradisfiscale2:paradisfiscale2:1.7.10",
+                "name": "paradisfiscale2",
+                "type": "File",
+                "artifact": {
+                    "size": 18226703,
+                    "MD5": "f5bc168e514f1a0e10281b4573d72604",
+                    "path": "Flan/paradisfiscale2.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/flans/paradisfiscale2.jar"
                 }
             }
         ]

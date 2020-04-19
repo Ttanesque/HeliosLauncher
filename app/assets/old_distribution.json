@@ -1558,3 +1558,25 @@
         }
     ]
 }
+{
+    "id": "::1.7.10",
+    "name": "",
+    "type": "File",
+    "artifact": {
+        "size": ,
+        "MD5": "",
+        "path": "mods/.jar",
+        "url": ""
+    }
+},
+{
+    "id": "::1.7.10",
+    "name": "",
+    "type": "File",
+    "artifact": {
+        "size": ,
+        "MD5": "",
+        "path": "Flan/.jar",
+        "url": ""
+    }
+}
