@@ -530,6 +530,16 @@
                 }
             },
             {
+                "id": "mcheli:mcheli:1.7.10",
+                "name": "mcheli",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 218681940,
+                    "MD5": "e0c5183fc2220a9218326aafd2503986",
+                    "url": "http://51.255.172.62/mineNorth/modpack/mods/mcheli.jar"
+                }
+            },
+            {
                 "id": "Alcara_v1:alcara:1.7.10",
                 "name": "Alcara",
                 "type": "File",
