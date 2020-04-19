@@ -9,8 +9,7 @@
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
     },
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
-    "servers": [
-        {
+    "servers": [{
             "id": "WesterosCraft-1.11.2",
             "name": "WesterosCraft Production Server",
             "description": "Main WesterosCraft server. Connect to enter the Realm.",
@@ -25,8 +24,7 @@
             },
             "mainServer": true,
             "autoconnect": true,
-            "modules": [
-                {
+            "modules": [{
                     "id": "net.minecraftforge:forge:1.11.2-13.20.1.2429",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
@@ -35,8 +33,7 @@
                         "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
                         "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.11.2-13.20.1.2429/forge-1.11.2-13.20.1.2429-universal.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "net.minecraft:launchwrapper:1.12",
                             "name": "Mojang (LaunchWrapper)",
                             "type": "Library",
@@ -224,7 +221,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 17376788,
-                         "MD5": "370f4f1804c93f498f31af8dac509605",
+                        "MD5": "370f4f1804c93f498f31af8dac509605",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/WesterosBlocks.jar"
                     }
                 },
@@ -271,8 +268,7 @@
                         "MD5": "65403c66d8b3655b372f58047941d206",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/DynamicSurroundings.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "dsurround.cfg",
                             "name": "DynamicSurroundings General Configuration File",
                             "type": "File",
@@ -307,19 +303,17 @@
                         "MD5": "522fdf73b6e4343cb6243872fb7b4b6c",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/BetterFoliage.jar"
                     },
-                    "subModules": [
-                        {
-                            "id": "betterfoliage.cfg",
-                            "name": "BetterFoliage Configuration File",
-                            "type": "File",
-                            "artifact": {
-                                "size": 7878,
-                                "MD5": "6dd38f873c4129af05a2d6c500cbe954",
-                                "path": "/config/betterfoliage.cfg",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/config/betterfoliage.cfg"
-                            }
+                    "subModules": [{
+                        "id": "betterfoliage.cfg",
+                        "name": "BetterFoliage Configuration File",
+                        "type": "File",
+                        "artifact": {
+                            "size": 7878,
+                            "MD5": "6dd38f873c4129af05a2d6c500cbe954",
+                            "path": "/config/betterfoliage.cfg",
+                            "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/config/betterfoliage.cfg"
                         }
-                    ]
+                    }]
                 },
                 {
                     "id": "techbrew:journeymap:1.11.2-5.4.7",
@@ -373,22 +367,20 @@
                         "MD5": "3a98b5ed95810bf164e71c1a53be568d",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/liteloader.jar"
                     },
-                    "subModules": [
-                        {
-                            "id": "com.mumfrey:macrokeybindmod:0.14.4-1.11.2@litemod",
-                            "name": "Macro/Keybind Mod",
-                            "type": "LiteMod",
-                            "required": {
-                                "value": false,
-                                "def": false
-                            },
-                            "artifact": {
-                                "size": 1670811,
-                                "MD5": "16080785577b391d426c62c8d3138558",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/macrokeybindmod.litemod"
-                            }
+                    "subModules": [{
+                        "id": "com.mumfrey:macrokeybindmod:0.14.4-1.11.2@litemod",
+                        "name": "Macro/Keybind Mod",
+                        "type": "LiteMod",
+                        "required": {
+                            "value": false,
+                            "def": false
+                        },
+                        "artifact": {
+                            "size": 1670811,
+                            "MD5": "16080785577b391d426c62c8d3138558",
+                            "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/macrokeybindmod.litemod"
                         }
-                    ]
+                    }]
                 },
                 {
                     "id": "com.sonicether:seus:11.0",
@@ -408,7 +400,7 @@
                     "artifact": {
                         "size": 1973,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.11.2.txt" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.11.2.txt"
                     }
                 },
                 {
@@ -419,7 +411,7 @@
                         "size": 84,
                         "MD5": "71d99e229d7d2b8d2a6423e46832a4b8",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/servers.dat" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/servers.dat"
                     }
                 }
             ]
@@ -439,8 +431,7 @@
             },
             "mainServer": false,
             "autoconnect": true,
-            "modules": [
-                {
+            "modules": [{
                     "id": "net.minecraftforge:forge:1.11.2-13.20.1.2476",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
@@ -449,8 +440,7 @@
                         "MD5": "7cef816cc01d53a04a180f0214d2982a",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/forge-1.11.2-13.20.1.2476-universal.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "net.minecraft:launchwrapper:1.12",
                             "name": "Mojang (LaunchWrapper)",
                             "type": "Library",
@@ -638,7 +628,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 17376788,
-                         "MD5": "370f4f1804c93f498f31af8dac509605",
+                        "MD5": "370f4f1804c93f498f31af8dac509605",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/WesterosBlocks.jar"
                     }
                 },
@@ -685,8 +675,7 @@
                         "MD5": "65403c66d8b3655b372f58047941d206",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/DynamicSurroundings.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "dsurround.cfg",
                             "name": "DynamicSurroundings General Configuration File",
                             "type": "File",
@@ -721,19 +710,17 @@
                         "MD5": "522fdf73b6e4343cb6243872fb7b4b6c",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/BetterFoliage.jar"
                     },
-                    "subModules": [
-                        {
-                            "id": "betterfoliage.cfg",
-                            "name": "BetterFoliage Configuration File",
-                            "type": "File",
-                            "artifact": {
-                                "size": 7878,
-                                "MD5": "6dd38f873c4129af05a2d6c500cbe954",
-                                "path": "/config/betterfoliage.cfg",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/config/betterfoliage.cfg"
-                            }
+                    "subModules": [{
+                        "id": "betterfoliage.cfg",
+                        "name": "BetterFoliage Configuration File",
+                        "type": "File",
+                        "artifact": {
+                            "size": 7878,
+                            "MD5": "6dd38f873c4129af05a2d6c500cbe954",
+                            "path": "/config/betterfoliage.cfg",
+                            "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/config/betterfoliage.cfg"
                         }
-                    ]
+                    }]
                 },
                 {
                     "id": "techbrew:journeymap:1.11.2-5.5.2",
@@ -787,22 +774,20 @@
                         "MD5": "3a98b5ed95810bf164e71c1a53be568d",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/liteloader.jar"
                     },
-                    "subModules": [
-                        {
-                            "id": "com.mumfrey:macrokeybindmod:0.14.4-1.11.2@litemod",
-                            "name": "Macro/Keybind Mod",
-                            "type": "LiteMod",
-                            "required": {
-                                "value": false,
-                                "def": false
-                            },
-                            "artifact": {
-                                "size": 1670811,
-                                "MD5": "16080785577b391d426c62c8d3138558",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/macrokeybindmod.litemod"
-                            }
+                    "subModules": [{
+                        "id": "com.mumfrey:macrokeybindmod:0.14.4-1.11.2@litemod",
+                        "name": "Macro/Keybind Mod",
+                        "type": "LiteMod",
+                        "required": {
+                            "value": false,
+                            "def": false
+                        },
+                        "artifact": {
+                            "size": 1670811,
+                            "MD5": "16080785577b391d426c62c8d3138558",
+                            "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/macrokeybindmod.litemod"
                         }
-                    ]
+                    }]
                 },
                 {
                     "id": "com.sonicether:seus:11.0",
@@ -822,7 +807,7 @@
                     "artifact": {
                         "size": 1973,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.11.2.txt" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.11.2.txt"
                     }
                 },
                 {
@@ -833,7 +818,7 @@
                         "size": 87,
                         "MD5": "594de6063df993b5fde31c7290226ee4",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/servers.dat" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/servers.dat"
                     }
                 }
             ]
@@ -853,8 +838,7 @@
             },
             "mainServer": false,
             "autoconnect": true,
-            "modules": [
-                {
+            "modules": [{
                     "id": "net.minecraftforge:forge:1.12.2-14.23.5.2797",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
@@ -863,8 +847,7 @@
                         "MD5": "5320593704af58b3906e7106d27e41c8",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2797-universal.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "net.minecraft:launchwrapper:1.12",
                             "name": "Mojang (LaunchWrapper)",
                             "type": "Library",
@@ -1072,7 +1055,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 17286330,
-                         "MD5": "e5c38ef42e9cc4b957122207dcf95f4f",
+                        "MD5": "e5c38ef42e9cc4b957122207dcf95f4f",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
@@ -1119,8 +1102,7 @@
                         "MD5": "3d75602c66b7ccfc23c342e8d5e07469",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/DynamicSurroundings.jar"
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "dsurround.cfg",
                             "name": "DynamicSurroundings General Configuration File",
                             "type": "File",
@@ -1155,19 +1137,17 @@
                         "MD5": "e05a720c5900b9bac4e01179abe8eef6",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/BetterFoliage.jar"
                     },
-                    "subModules": [
-                        {
-                            "id": "betterfoliage.cfg",
-                            "name": "BetterFoliage Configuration File",
-                            "type": "File",
-                            "artifact": {
-                                "size": 7878,
-                                "MD5": "6dd38f873c4129af05a2d6c500cbe954",
-                                "path": "/config/betterfoliage.cfg",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/config/betterfoliage.cfg"
-                            }
+                    "subModules": [{
+                        "id": "betterfoliage.cfg",
+                        "name": "BetterFoliage Configuration File",
+                        "type": "File",
+                        "artifact": {
+                            "size": 7878,
+                            "MD5": "6dd38f873c4129af05a2d6c500cbe954",
+                            "path": "/config/betterfoliage.cfg",
+                            "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/config/betterfoliage.cfg"
                         }
-                    ]
+                    }]
                 },
                 {
                     "id": "forgelin:forgelin:1.8.2",
@@ -1218,22 +1198,20 @@
                         "MD5": "1420785ecbfed5aff4a586c5c9dd97eb",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/liteloader.jar"
                     },
-                    "subModules": [
-                        {
-                            "id": "com.mumfrey:macrokeybindmod:0.15.4-1.12.1@litemod",
-                            "name": "Macro/Keybind Mod",
-                            "type": "LiteMod",
-                            "required": {
-                                "value": false,
-                                "def": false
-                            },
-                            "artifact": {
-                                "size": 1726452,
-                                "MD5": "9ba3ed960bbb676743a3b6c2e1efc484",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/macrokeybindmod.litemod"
-                            }
+                    "subModules": [{
+                        "id": "com.mumfrey:macrokeybindmod:0.15.4-1.12.1@litemod",
+                        "name": "Macro/Keybind Mod",
+                        "type": "LiteMod",
+                        "required": {
+                            "value": false,
+                            "def": false
+                        },
+                        "artifact": {
+                            "size": 1726452,
+                            "MD5": "9ba3ed960bbb676743a3b6c2e1efc484",
+                            "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/macrokeybindmod.litemod"
                         }
-                    ]
+                    }]
                 },
                 {
                     "id": "com.sonicether:seus-renewed:1.0.0",
@@ -1253,7 +1231,7 @@
                     "artifact": {
                         "size": 1973,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt"
                     }
                 },
                 {
@@ -1264,7 +1242,7 @@
                         "size": 87,
                         "MD5": "64dc1db90935997f07dfac422206f1de",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/servers.dat" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/servers.dat"
                     }
                 }
             ]
@@ -1284,8 +1262,7 @@
             },
             "mainServer": false,
             "autoconnect": false,
-            "modules": [
-                {
+            "modules": [{
                     "id": "net.minecraftforge:forge:1.13.2-25.0.219",
                     "name": "Minecraft Forge (base jar)",
                     "type": "ForgeHosted",
@@ -1294,13 +1271,12 @@
                         "MD5": "c5a9c40711feb2b4ab0329c48256e30d",
                         "url": ""
                     },
-                    "subModules": [
-                        {
+                    "subModules": [{
                             "id": "net.minecraftforge:forge:1.13.2-25.0.219:universal",
                             "name": "Minecraft Forge (universal jar)",
                             "type": "Library",
                             "artifact": {
-                                "size": 2343272 ,
+                                "size": 2343272,
                                 "MD5": "338c495d266da44ac1955caf91cc14c4",
                                 "url": ""
                             }
@@ -1555,7 +1531,7 @@
                                 "url": ""
                             }
                         }
-                        
+
                     ]
                 },
                 {
@@ -1564,7 +1540,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 27382,
-                         "MD5": "a1c0cfed77b2cb7b6699e59ba0252a50",
+                        "MD5": "a1c0cfed77b2cb7b6699e59ba0252a50",
                         "url": ""
                     }
                 },
@@ -1574,33 +1550,11 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 34914,
-                         "MD5": "b4dc10b9039518ce00845ca962e6a136",
+                        "MD5": "b4dc10b9039518ce00845ca962e6a136",
                         "url": ""
                     }
                 }
             ]
         }
     ]
-/*
-{
-                "id": "CodeChickenLib:code_chicken:1.7.10",
-                "name": "CodeChickenLib",
-                "type": "ForgeMod",
-                "artifact": {
-                    "size": 299187,
-                    "MD5": "a9043228d7d6fc52a7cb0d1d20922ce1",
-                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/CodeChickenLib-1.7.10-1.1.1.99-universal.jar"
-                }
-            },
-            {
-                "id": "CodeChickenCore:code_chicken:1.7.10",
-                "name": "CodeChickenCore",
-                "type": "ForgeMod",
-                "artifact": {
-                    "size": 157678,
-                    "MD5": "23978d3c16f19d0d2808c4b451d78f87",
-                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/CodeChickenCore-1.7.10.jar"
-                }
-            }
-            */
-        }
+}

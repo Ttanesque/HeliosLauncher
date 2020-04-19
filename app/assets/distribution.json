@@ -268,15 +268,220 @@
                     "MD5": "b3529b4e48a9988effa7388178de9b5e",
                     "url": "http://51.255.172.62/mineNorth/modpack/mods/%5b1.7.10%5d%20SecurityCraft%20v1.8.0.3%20Pre-release.jar"
                 }
-            }, 
+            },
             {
-                "id": "",
-                "name": "",
+                "id": "Monoblocks:monoblocks:1.9.11_1.7.10",
+                "name": "Monoblocks",
                 "type": "ForgeMod",
                 "artifact": {
-                    "size": 0,
-                    "MD5": "",
-                    "url": "",
+                    "size": 1731788,
+                    "MD5": "5b7f93dedf24813ffbdf2393a16be2ae",
+                    "url": "http://51.255.172.62/mineNorth/modpack/mods/Monoblocks-1.9.11.jar"
+                }
+            },
+            {
+                "id": "Decocraft:decocraft:2.3.3_1.7.10",
+                "name": "Decocraft",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 11206388,
+                    "MD5": "ae337eeb694dee4bab5ce074420bd0b8",
+                    "url": "http://51.255.172.62/mineNorth/modpack/mods/Decocraft-2.3.3_1.7.10.jar"
+                }
+            },
+            {
+                "id": "GlibysVC:glibysvc:0.6.2a_1.7.10",
+                "name": "GlibysVC",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 399246,
+                    "MD5": "0efe8c9aaa45b15f776cb49136860697",
+                    "url": "http://51.255.172.62/mineNorth/modpack/mods/GlibysVC-1.7.10-0.6.2a.jar"
+                }
+            },
+            {
+                "id": "FiscalParadiseMod:fiscalparadisemod:0.1_1.7.10",
+                "name": "FiscalParadiseMod",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 519000,
+                    "MD5": "9a7ccdb2814af286dafcb2642eed7038",
+                    "url": "http://51.255.172.62/mineNorth/modpack/mods/FiscalParadiseModV.01.jar"
+                }
+            },
+            {
+                "id": "Gravity-Gun-Mod:gravity-gun-mod:1.7.10",
+                "name": "Gravity Gun Mod",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 266221,
+                    "MD5": "ac70a43a82eac9488caecb6a11d5e040",
+                    "url": "http://51.255.172.62/mineNorth/modpack/mods/Gravity-Gun-Mod-1.7.10.jar"
+                }
+            },
+            {
+                "id": "MineNorthZCOPYRIGHT:MineNorthZ:1.7.10",
+                "name": "MineNorthZ",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 2005940,
+                    "MD5": "4237d728cc276c3f81fa3b22e8bc79c1",
+                    "url": "http://51.255.172.62/mineNorth/modpack/mods/MineNorthZCOPYRIGHTv.2.jar"
+                }
+            },
+            {
+                "id": "CustomMainMenu:custom_main_menu:1.9.2_1.7.10",
+                "name": "CustomMainMenu",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 961568,
+                    "MD5": "4a68eb8aef9150a1fd75741a74581132",
+                    "url": "http://51.255.172.62/mineNorth/modpack/mods/CustomMainMenu-MC1.7.10-1.9.2.jar"
+                }
+            },
+            {
+                "id": "CustomNPC:custom_NPC:1.7.10",
+                "name": "CustomNPC's",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 27212957,
+                    "MD5": "f599fe5396b0590227b7c8fe943cdad0",
+                    "url": "http://51.255.172.62/mineNorth/modpack/mods/CustomNPC's.jar"
+                }
+            },
+            {
+                "id": "Hide_Names:hide_names:1.1.8_1.7.10",
+                "name": "Hide Names",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 18639,
+                    "MD5": "f180e78161de37faa806e88fb642041f",
+                    "url": "http://51.255.172.62/mineNorth/modpack/mods/Hide%20Names-1.7.10-1.1.8%20(1).jar"
+                }
+            },
+            {
+                "id": "iChun-Util-Mod:ichun_util_mod:1.7.10",
+                "name": "iChun Util Mod",
+                "type": "File",
+                "artifact": {
+                    "size": 213084,
+                    "MD5": "9f90848755f2c3002996b86b57dee2f1",
+                    "path": "mods/iChun-Util-Mod.jar",
+                    "url": "http://51.255.172.62/mineNorth/modpack/mods/iChun-Util-Mod-1.7.10.jar"
+                }
+            },
+            {
+                "id": "PlayerAPI:player_api:1.7.10",
+                "name": "PlayerAPI",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 282107,
+                    "MD5": "a86805d3720f12610ae1f28f7eb08b53",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/PlayerAPI.jar"
+                }
+            },
+            {
+                "id": "malisisdoors:malisisdoors:1.13.0-1.7.10",
+                "name": "PlayerAPI",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 1709613,
+                    "MD5": "eb2b90eec654c732dfc26e6fcb3d1d0f",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/malisisdoors-1.7.10-1.13.0.jar"
+                }
+            },
+            {
+                "id": "malisiscore:malisiscore:0.14.0-1.7.10",
+                "name": "malisiscore",
+                "type": "File",
+                "artifact": {
+                    "size": 646262,
+                    "MD5": "7d2311909493b7c9d036bd3754669ee5",
+                    "path": "mods/malisiscore.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/malisiscore-1.7.10-0.14.0.jar"
+                }
+            },
+            {
+                "id": "legacyjavafixer:legacyjavafixer:1.0.0-1.7.10",
+                "name": "legacyjavafixer",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 6245,
+                    "MD5": "12c337cb2445b56b097e7c25a5642710",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/legacyjavafixer-1.0.jar"
+                }
+            },
+            {
+                "id": "TMCMR:tcmr:1.7.10",
+                "name": "TMCMR",
+                "type": "File",
+                "artifact": {
+                    "size": 125426,
+                    "MD5": "209f0ce8497332dc66769a6b107d7f67",
+                    "path": "mods/TMCMR.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/TMCMR-2015.02.20.jar"
+                }
+            },
+            {
+                "id": "Roads-Mod:roads_mod:1.7.10",
+                "name": "Roads Mod",
+                "type": "File",
+                "artifact": {
+                    "size": 105122,
+                    "MD5": "e5cddd1d04be5b14b8b750a77240be71",
+                    "path": "mods/Roads-Mod.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/Roads-Mod-1.7.10.jar"
+                }
+            },
+            {
+                "id": "Road-Stuff-Mod:road_mtuff_mod:1.7.10",
+                "name": "Road Stuff Mod",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 5280350,
+                    "MD5": "1a88976018db27ae6bd1e7a76936d21c",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/Road-Stuff-Mod-1.7.10.jar"
+                }
+            },
+            {
+                "id": "MineNothRpV2:MineNothRpV2:1.7.10",
+                "name": "MineNothRpV2",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 1986772,
+                    "MD5": "98c9b94f4d5cdcac52b2325c41371eae",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/MineNothRp1.7.10V.2.jar"
+                }
+            },
+            {
+                "id": "MAP:map:1.7.10",
+                "name": "MAP",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 164509,
+                    "MD5": "391c71835f142e01d95db8846f4c3889",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/MAP.jar"
+                }
+            },
+            {
+                "id": "FlenixCitiesCore:flenix_cities_core:0.17-1.7.10",
+                "name": "FlenixCitiesCore",
+                "type": "File",
+                "artifact": {
+                    "size": 1527538,
+                    "MD5": "0fa8cbcd225deed5364de706c9fdabbe",
+                    "path": "mods/FlenixCitiesCore.jar",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/FlenixCitiesCore_%5b1.7.10%5d-0.17.0-b138.jar"
+                }
+            },
+            {
+                "id": "FlenixCitiesResearch:flenix_cities_research:1.7.10",
+                "name": "FlenixCitiesResearch",
+                "type": "ForgeMod",
+                "artifact": {
+                    "size": 467992,
+                    "MD5": "abbfcb04acde72648e525377c30d997f",
+                    "url": "http://51.255.172.62/mineNorth/launcher/modpack/FlenixCitiesResearch_%5b1.7.10%5d-0.4.jar"
                 }
             }
         ]
