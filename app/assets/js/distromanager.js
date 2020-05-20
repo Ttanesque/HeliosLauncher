@@ -538,7 +538,6 @@ exports.pullRemote = function(){
     }
     return new Promise((resolve, reject) => {
         const distroURL = 'http://51.255.172.62/mineNorth/files/distribution.json'
-        //const distroURL = 'https://gist.githubusercontent.com/dscalzi/53b1ba7a11d26a5c353f9d5ae484b71b/raw/'
         const opts = {
             url: distroURL,
             timeout: 2500
@@ -572,6 +571,7 @@ exports.pullRemote = function(){
  */
 exports.pullLocal = function(){
     return new Promise((resolve, reject) => {
+        console.log('le fichier est : ' + DEV_PATH)
         fs.readFile(DEV_MODE ? DEV_PATH : DISTRO_PATH, 'utf-8', (err, d) => {
             if(!err){
                 data = DistroIndex.fromJSON(JSON.parse(d))

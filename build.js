@@ -21,7 +21,7 @@ builder.build({
         appId: 'minenorthlauncher',
         productName: 'MineNorth Launcher',
         artifactName: '${productName}.${ext}',
-        copyright: 'Copyright © 2018-2020 Daniel Scalzi',
+        copyright: 'Copyright © 2020 Minenorth based on Daniel Scalzi work',
         directories: {
             buildResources: 'build',
             output: 'dist'

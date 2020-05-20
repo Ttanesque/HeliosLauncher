@@ -1,0 +1,49 @@
+{
+    "html": {
+        "avatarOverlay": "Edit"
+    },
+    "js": {
+        "login": {
+            "error": {
+                "invalidValue": "* Champs invalid",
+                "requiredValue": "* Requis",
+                "userMigrated": {
+                    "title": "Erreur pendant la connexion:<br>Crédits invalid",
+                    "desc": "Vous cherhcez à vous connecter avec un compte migré. Essayer votre email au lieu de votre pseudo."
+                },
+                "invalidCredentials": {
+                    "title": "Erreur pendant la connexion:<br>Crédits invalid",
+                    "desc": "Le mail ou le mots de passe est invalid. Réessayé."
+                },
+                "rateLimit": {
+                    "title": "Erreur pendant la connexion:<br>Trop d'essai",
+                    "desc": "Vous avez trop de fois de vous connectez à ce compte sans succès. Veuillez réessayer plus tard."
+                },
+                "noInternet": {
+                    "title": "Erreur pendant la connexion:<br>Pas d'internet",
+                    "desc": "Afin de vous connectez nous avons besoins d'internet. Connectez vous et réessayer."
+                },
+                "authDown": {
+                    "title": "Erreur pendant la connexion:<br>Le server d'authentification est éteint",
+                    "desc": "Le serveur d'authentification de Mojangest hors ligne ou innateignable. Attendez un peu et réessayer. Vérifié le status du serveur de connexion ici <a href=\"https://help.mojang.com/\">Mojang's help portal</a>."
+                },
+                "notPaid": {
+                    "title": "Erreur pendant la connexion:<br>Jeu non acheté",
+                    "desc": "Le compte avec lequel vous vous connectez n'a pas Minecraft.<br>Vous puvez l'acheter ici<a href=\"https://minecraft.net/\">Minecraft.net</a>"
+                },
+                "unknown": {
+                    "title": "Erreur pendant la connexion:<br>Erreur inconnu"
+                }
+            },
+            "login": "CONNECTER",
+            "loggingIn": "CONNEXION EN COURS",
+            "success": "SUCCES",
+            "tryAgain": "Réessayer"
+        },
+        "landing": {
+            "launch": {
+                "pleaseWait": "Veuillez patienter..."
+            }
+        }
+    }
+}

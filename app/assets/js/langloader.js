@@ -4,6 +4,7 @@ const path = require('path')
 let lang
 
 exports.loadLanguage = function(id){
+    console.log(id)
     lang = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'lang', `${id}.json`))) || {}
 }
 
